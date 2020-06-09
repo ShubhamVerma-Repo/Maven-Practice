@@ -1,6 +1,9 @@
-package com.iris;
+package com.demo;
 
 import org.junit.*;
+
+import com.demo.MySecondServlet;
+
 import static org.junit.Assert.*;
 import static org.junit.matchers.JUnitMatchers.*;
 

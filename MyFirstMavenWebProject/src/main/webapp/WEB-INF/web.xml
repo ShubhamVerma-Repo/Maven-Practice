@@ -8,13 +8,13 @@
   	<servlet-name>MyFirstServlet</servlet-name>
   	<display-name>MyFirstServlet</display-name>
   	<description></description>
-  	<servlet-class>com.iris.MyFirstServlet</servlet-class>
+  	<servlet-class>com.demo.MyFirstServlet</servlet-class>
   </servlet>
   <servlet>
   	<servlet-name>MySecondServlet</servlet-name>
   	<display-name>MySecondServlet</display-name>
   	<description></description>
-  	<servlet-class>com.iris.MySecondServlet</servlet-class>
+  	<servlet-class>com.demo.MySecondServlet</servlet-class>
   </servlet>
   <servlet-mapping>
   	<servlet-name>MyFirstServlet</servlet-name>
