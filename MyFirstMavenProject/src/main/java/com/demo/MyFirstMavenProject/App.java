@@ -1,4 +1,4 @@
-package com.iris.MyFirstMavenProject;
+package com.demo.MyFirstMavenProject;
 
 import java.io.FileReader;
 import java.util.*;
@@ -30,7 +30,7 @@ public class App
     	
     	
     	
-    	FileReader fr=new FileReader("E:/Code Repository/MyFirstMavenProject/src/main/java/com/iris/MyFirstMavenProject/DB.properties");
+    	FileReader fr=new FileReader("E:/Code Repository/MyFirstMavenProject/src/main/java/com/demo/MyFirstMavenProject/DB.properties");
     	Properties p=new Properties();
     	p.load(fr);
     	

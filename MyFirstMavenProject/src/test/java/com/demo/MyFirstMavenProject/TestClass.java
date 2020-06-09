@@ -1,4 +1,4 @@
-package com.iris.MyFirstMavenProject;
+package com.demo.MyFirstMavenProject;
 
 import org.junit.*;
 import org.junit.runner.JUnitCore;
